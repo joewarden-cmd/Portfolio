@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <nav className="fixed w-full z-10 bg-slate-900/50 backdrop-blur-md">
+    <nav className="fixed w-full z-10 bg-blue-500/50 backdrop-blur-md">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <a href="#home" className="text-xl font-bold text-cyan-400">
           My Portfolio
