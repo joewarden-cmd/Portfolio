@@ -11,7 +11,7 @@ const Home = () => {
         <p className="text-xl md:text-2xl text-slate-400 mb-8 max-w-2xl animate-fadeIn">
           I edit photos, videos. Create Digital Art. And I code.
         </p>
-        <img src="me.jpg" alt="Profile" className="w-55 h-55 rounded-full mb-8 shadow-2xl ring-4 ring-cyan-500/20" />
+        <img src="me.jpg" alt="Profile" className="w-56 h-56 rounded-full object-cover mb-8 shadow-2xl ring-4 ring-cyan-500/20" />
       </div>
     </div>
   );

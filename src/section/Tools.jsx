@@ -5,6 +5,7 @@ const tools = [
   { name: 'Photoshop', description: 'Powerful photo editing and graphic design software.', icon: '/phoshop.png' },
   { name: 'Sony Vegas', description: 'A professional video editor known for its intuitive timeline and powerful audio tools..', icon: '/vegas.png' },
   { name: 'Flutter', description: 'A UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.', icon: '/flutter.png' },
+  { name: 'Dart', description: 'Its the core language of the Flutter framework for creating cross-platform mobile, web, and desktop apps', icon: '/dart.png' },
   { name: 'Vite', description: 'A modern build tool that makes web development faster by instantly loading your project.', icon: '/vite.png' },
   { name: 'React', description: 'A JavaScript library for building interactive user interfaces with reusable components.', icon: '/react.png' },
   { name: 'Javascript', description: 'The programming language that adds dynamic behavior and interactivity to websites.', icon: '/js.png' },
